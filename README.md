@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 
 ##### Connect with me
 
-![https://www.instagram.com/muhdwiafri](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.behance.net/ProjectDvaraCreative](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/muhdwiafri)
+[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ProjectDvaraCreative)
 
 <!-- ##### My Github stats
 
