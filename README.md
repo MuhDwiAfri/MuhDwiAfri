@@ -35,8 +35,6 @@ Here are some ideas to get you started:
 
 ##### Play game with me
 
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhDwiAfri/MuhDwiAfri/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhDwiAfri/MuhDwiAfri/output/pacman-contribution-graph.svg">
