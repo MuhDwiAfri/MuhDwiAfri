@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ![Muhammad Dwi Afriza GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhDwiAfri) -->
 
-##### Play game with me
+<!-- ##### Play game with me
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhDwiAfri/MuhDwiAfri/output/pacman-contribution-graph-dark.svg">
@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 <div align="left">
 </div>
 
-###
+### -->
